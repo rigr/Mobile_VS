@@ -1,3 +1,16 @@
+# WORK IN PROGRESS. Currently public to use the build env. 
+
+Currently testing this approach, maybe later turn to use a esp32 or even a esp8266.
+
+
+
+
+
+
+
+
+
+
 # Logic VS Bridge 0.2.0 – echter Browser-zu-Android-USB-MIDI-Test
 
 Dies ist ein Android-Studio-Projekt für das Samsung Galaxy A7 (2018). Es enthält jetzt die vollständige hochgeladene Logic VS Web v6.5 HTML-Oberfläche und eine Web-MIDI-kompatible Brücke: Die MIDI-Ausgänge und -Eingänge der HTML-Seite werden über HTTP an Androids `MidiManager` weitergereicht. Der Browser auf Tablet/Laptop benötigt keine eigene Web-MIDI-Unterstützung und keine MIDI-Hardware.
